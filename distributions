@@ -1,0 +1,7 @@
+Origin: github.com/quaat/dlite-dist
+Label: github.com/quaat/dlite-dist
+Codename: sid
+Architectures: amd64
+Components: main
+Description: Personal repository
+SignWith: A041B26D8EF66E72
