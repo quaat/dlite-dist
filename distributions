@@ -1,5 +1,5 @@
-Origin: github.com/quaat/dlite-dist
-Label: github.com/quaat/dlite-dist
+Origin: quaat.github.io/dlite-dist/
+Label: quaat.github.io/dlite-dist/
 Codename: sid
 Architectures: amd64
 Components: main
